@@ -35,3 +35,15 @@ svg{
   stroke-linecap: round;
 }
 
+.winner{
+  background: rgba(255,255,255,.8);
+  width: 50wd;
+  height: 50vh;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
